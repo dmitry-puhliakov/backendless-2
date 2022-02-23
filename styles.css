@@ -1,7 +1,7 @@
 @font-face {
   font-family: "TTRoundsNeue-Cond";
   font-display: swap;
-  src: url("/fonts/TTRoundsNeue-CondRegular.woff2") format("woff2");
+  src: url("./fonts/TTRoundsNeue-CondRegular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
 }
@@ -9,7 +9,7 @@
 @font-face {
   font-family: "TTRoundsNeue-Cond";
   font-display: swap;
-  src: url("/fonts/TTRoundsNeue-CondMedium.woff2") format("woff2");
+  src: url("./fonts/TTRoundsNeue-CondMedium.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
 }
